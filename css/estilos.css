@@ -1,0 +1,9 @@
+/* Ajustes de contenedor */
+.main > .container {
+  padding: 30px 0;
+}
+
+/* Estilo del formulario de inicio de sesión */
+.form-login {
+  max-width: 350px;
+}
